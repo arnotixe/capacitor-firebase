@@ -1,5 +1,11 @@
 # Changelog
 
+## 6.0.0
+
+### Minor Changes
+
+- [`4d21118`](https://github.com/capawesome-team/capacitor-firebase/commit/4d2111872d1b08e12d7a111d0516912f5f957238) ([#572](https://github.com/capawesome-team/capacitor-firebase/pull/572)): feat(android): support dynamic Firebase config
+
 ## 5.4.1
 
 ## 5.4.0

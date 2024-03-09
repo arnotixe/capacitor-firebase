@@ -1,5 +1,15 @@
 # @capacitor-firebase/firestore
 
+## 6.0.0
+
+### Major Changes
+
+- [`eb15c5e`](https://github.com/capawesome-team/capacitor-firebase/commit/eb15c5e9f163ba1a5e6eeecc8b38e8c8fa2b3dce) ([#570](https://github.com/capawesome-team/capacitor-firebase/pull/570)): refactor: remove the `QueryDocumentSnapshot` interface
+
+### Minor Changes
+
+- [`4d21118`](https://github.com/capawesome-team/capacitor-firebase/commit/4d2111872d1b08e12d7a111d0516912f5f957238) ([#572](https://github.com/capawesome-team/capacitor-firebase/pull/572)): feat(android): support dynamic Firebase config
+
 ## 5.4.1
 
 ### Patch Changes
